@@ -1,0 +1,43 @@
+What is React?
+-The React.js framework is an open-source JavaScript framework and library developed by Facebook.
+
+
+Who made React?
+-React was created by Jordan Walke, a software engineer at Meta, who released an early prototype of React called "FaxJS". He was influenced by XHP, an HTML component library for PHP. It was first deployed on Facebook's News Feed in 2011 and later on Instagram in 2012.
+
+
+What is Babel?
+-Babel is a free and open-source JavaScript transcompiler that is mainly used to convert ECMAScript 2015+ code into backwards-compatible JavaScript code that can be run by older JavaScript engines. It allows web developers to take advantage of the newest features of the language.
+
+
+How does Babel convert html code in React into valid code?
+-Babel converts HTML code into valid code by using the JSX code and converter.
+
+
+What is ReactDOM used for? Write an example?
+-The react-dom package provides DOM-specific methods that can be used at the top level of your app and as an escape hatch to get outside the React model if you need to.
+
+
+What are the packages that you need to import for react to work with?
+-You can use npx to create new React app. Well, using npx, you can use create-react-app package without installing first on your system.
+
+
+How do you add react to a web application?
+-Step 1: Adding DOM Container To The HTML. First, open the HTML page that you want to change. ...
+Step 2: Add The Script Tags Or React Tags. Next, you have to add three <script> tags to the HTML page right before the closing </body> tag. ...
+Step 3: Create A React Component.
+
+
+What is React.createElement?
+-React. createElement( type, [props], [... children] ) Create and return a new React element of the given type.
+
+
+What are the three properties that createElement accept?
+-React.createElement() takes three arguments. They are:
+type: the type of the HTML element (h1,p,button).
+props: properties of the object({style:{size:10px}} or Eventhandlers, classNames,etc).
+children: anything that need to be displayed on the screen.
+
+
+What is the meaning of render and root?
+- Render is the technique that can redirect a page with the help of function render().The root node is the HTML element where you want to display the result. It is like a container for content managed by React.

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Hotel",
+    "location": "New York, USA",
+    "pricePerNight": 250,
+    "availableRooms": 10,
+    "availability": { "checkIn": "2023-04-20", "checkOut": "2023-04-25" },
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Gym", "Restaurant"],
+    "image": "https://example.com/hotel1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Beach Resort",
+    "location": "Miami, USA",
+    "pricePerNight": 180,
+    "availableRooms": 5,
+    "availability": { "checkIn": "2023-04-18", "checkOut": "2023-04-22" },
+    "amenities": ["Private Beach", "Spa", "Bar", "Water Sports"],
+    "image": "https://example.com/hotel2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mountain Lodge",
+    "location": "Aspen, USA",
+    "pricePerNight": 350,
+    "availableRooms": 3,
+    "availability": { "checkIn": "2023-04-19", "checkOut": "2023-04-24" },
+    "amenities": ["Skiing", "Hiking Trails", "Hot Tub", "Fireplace"],
+    "image": "https://example.com/hotel3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "City View Hotel",
+    "location": "London, UK",
+    "pricePerNight": 200,
+    "availableRooms": 8,
+    "availability": { "checkIn": "2023-04-22", "checkOut": "2023-04-26" },
+    "amenities": ["City View", "Free Breakfast", "Fitness Center"],
+    "image": "https://example.com/hotel4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tropical Paradise Resort",
+    "location": "Bali, Indonesia",
+    "pricePerNight": 300,
+    "availableRooms": 2,
+    "availability": { "checkIn": "2023-04-23", "checkOut": "2023-04-25" },
+    "amenities": ["Beachfront", "Infinity Pool", "Spa", "Restaurant"],
+    "image": "https://example.com/hotel5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Historic Inn",
+    "location": "Boston, USA",
+    "pricePerNight": 150,
+    "availableRooms": 6,
+    "availability": { "checkIn": "2023-04-25", "checkOut": "2023-04-28" },
+    "amenities": ["Historic Building", "Free Breakfast", "Library"],
+    "image": "https://example.com/hotel6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Luxury Resort",
+    "location": "Dubai, UAE",
+    "pricePerNight": 500,
+    "availableRooms": 1,
+    "availability": { "checkIn": "2023-04-21", "checkOut": "2023-04-23" },
+    "amenities": ["Private Beach", "Spa", "Fine Dining", "Helipad"],
+    "image": "https://example.com/hotel7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Country Retreat",
+    "location": "Tuscany, Italy",
+    "pricePerNight": 400,
+    "availableRooms": 4,
+    "availability": { "checkIn": "2023-04-18", "checkOut": "2023-04-24" },
+    "amenities": ["Vineyard", "Swimming Pool", "Italian Cuisine"],
+    "image": "https://example.com/hotel8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Urban Boutique Hotel",
+    "location": "San Francisco, USA",
+    "pricePerNight": 280,
+    "availableRooms": 7,
+    "availability": { "checkIn": "2023-04-26", "checkOut": "2023-04-30" },
+    "amenities": ["Boutique Style", "Rooftop Bar", "Free Bike Rentals"],
+    "image": "https://example.com/hotel9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ski Chalet",
+    "location": "Chamonix, France",
+    "pricePerNight": 450,
+    "availableRooms": 2,
+    "availability": { "checkIn": "2023-04-19", "checkOut": "2023-04-22" },
+    "amenities": ["Ski-in/Ski-out", "Fireplace", "Hot Tub", "Mountain View"],
+    "image": "https://example.com/hotel10.jpg"
+  }
+]

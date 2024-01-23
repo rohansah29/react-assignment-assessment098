@@ -1,0 +1,161 @@
+{
+  "cpproblems": [
+    {
+      "id": 1,
+      "Name": "React App 1",
+      "Category": "easy",
+      "Author": "fw15_347",
+      "Type": "cypress",
+      "Tags": ["JS", "html"],
+      "Difficulty": "easy",
+      "Status": "draft",
+      "Max_Marks": 15,
+      "GitHub_URL": "https://github.com/user/repo1",
+      "Problem_Statement": "This is the problemstatement for React App 1."
+    },
+    {
+      "id": 2,
+      "Name": "React App 2",
+      "Category": "difficult",
+      "Author": "admin",
+      "Type": "jest",
+      "Tags": ["react"],
+      "Difficulty": "hard",
+      "Status": "published",
+      "Max_Marks": 20,
+      "GitHub_URL": "https://github.com/user/repo2",
+      "Problem_Statement": "This is the problemstatement for React App 2."
+    },
+    {
+      "id": 3,
+      "Name": "React App 3",
+      "Category": "medium",
+      "Author": "Fw19_0162",
+      "Type": "cypress stateful",
+      "Tags": ["JS", "html"],
+      "Difficulty": "medium",
+      "Status": "tested",
+      "Max_Marks": 18,
+      "GitHub_URL": "https://github.com/user/repo3",
+      "Problem_Statement": "This is the problemstatement for React App 3."
+    },
+    {
+      "id": 4,
+      "Name": "React App 4",
+      "Category": "difficult",
+      "Author": "Fp02_047",
+      "Type": "jest",
+      "Tags": ["react", "react-redux"],
+      "Difficulty": "hard",
+      "Status": "published",
+      "Max_Marks": 25,
+      "GitHub_URL": "https://github.com/user/repo4",
+      "Problem_Statement": "This is the problemstatement for React App 4."
+    },
+    {
+      "id": 5,
+      "Name": "React App 5",
+      "Category": "easy",
+      "Author": "Nj2_003",
+      "Type": "cypress",
+      "Tags": ["react"],
+      "Difficulty": "easy",
+      "Status": "testing failed",
+      "Max_Marks": 12,
+      "GitHub_URL": "https://github.com/user/repo5",
+      "Problem_Statement": "This is the problemstatement for React App 5."
+    },
+    {
+      "id": 6,
+      "Name": "React App 6",
+      "Category": "medium",
+      "Author": "fw15_347",
+      "Type": "cypress stateful",
+      "Tags": ["react", "react-redux"],
+      "Difficulty": "medium",
+      "Status": "published",
+      "Max_Marks": 16,
+      "GitHub_URL": "https://github.com/user/repo6",
+      "Problem_Statement": "This is the problemstatement for React App 6."
+    },
+    {
+      "id": 7,
+      "Name": "React App 7",
+      "Category": "difficult",
+      "Author": "admin",
+      "Type": "jest",
+      "Tags": ["react", "react-redux"],
+      "Difficulty": "hard",
+      "Status": "tested",
+      "Max_Marks": 22,
+      "GitHub_URL": "https://github.com/user/repo7",
+      "Problem_Statement": "This is the problemstatement for React App 7."
+    },
+    {
+      "id": 8,
+      "Name": "React App 8",
+      "Category": "easy",
+      "Author": "Fw19_0162",
+      "Type": "cypress",
+      "Tags": ["JS", "html"],
+      "Difficulty": "easy",
+      "Status": "published",
+      "Max_Marks": 14,
+      "GitHub_URL": "https://github.com/user/repo8",
+      "Problem_Statement": "This is the problemstatement for React App 8."
+    },
+    {
+      "id": 9,
+      "Name": "React App 9",
+      "Category": "medium",
+      "Author": "Fw19_0162",
+      "Type": "jest",
+      "Tags": ["react", "react-redux"],
+      "Difficulty": "medium",
+      "Status": "draft",
+      "Max_Marks": 19,
+      "GitHub_URL": "https://github.com/user/repo18",
+      "Problem_Statement": "This is the problemstatement for React App 9."
+    },
+    {
+      "id": 10,
+      "Name": "React App 10",
+      "Category": "difficult",
+      "Author": "Nj2_003",
+      "Type": "cypress stateful",
+      "Tags": ["react"],
+      "Difficulty": "hard",
+      "Status": "published",
+      "Max_Marks": 24,
+      "GitHub_URL": "https://github.com/user/repo19",
+      "Problem_Statement": "This is the problemstatement for React App 10."
+    }
+  ],
+  "users": [
+    {
+      "username": "fw15_347",
+      "password": "pass123",
+      "email": "fw15_347@masaischool.com"
+    },
+    {
+      "username": "admin",
+      "password": "admin987",
+      "email": "admin@masaischool.com"
+    },
+    {
+      "username": "Fw19_0162",
+      "password": "fw1901",
+      "email": "Fw19_0162@masaischool.com"
+    },
+    {
+      "username": "Fp02_047",
+      "password": "fp0204",
+      "email": "Fp02_047@masaischool.com"
+    },
+    {
+      "username": "Nj2_003",
+      "password": "nj2003",
+      "email": "Nj2_003@masaischool.com"
+    }
+  ]
+}

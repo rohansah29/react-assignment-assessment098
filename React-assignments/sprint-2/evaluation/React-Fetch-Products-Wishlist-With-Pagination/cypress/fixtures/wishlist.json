@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "brand": "Zebronics",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfboat000113_1_cc965b26.jpg?rnd=20200526195200",
+        "price": 100,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Laptop"
+    },
+    {
+        "id": 9,
+        "brand": "Apple",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/z/b/zb_8906108615899_1_44867a4c.jpg?rnd=20200526195200",
+        "price": 325,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Speakers"
+    },
+    {
+        "id": 12,
+        "brand": "HP",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/b/o/boult-audio-ba-nk-freepods-black_1_17c2dc71.jpg?rnd=20200526195200",
+        "price": 100,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Mobile"
+    },
+    {
+        "id": 16,
+        "brand": "Dell",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/m/u/musebud_grey.jpg?rnd=20200526195200",
+        "price": 1500,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Laptop"
+    }
+]

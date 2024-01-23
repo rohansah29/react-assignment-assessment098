@@ -1,0 +1,42 @@
+[
+    {
+        "id": 11,
+        "brand": "HP",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/g/r/grey_1_398b5873.jpg?rnd=20200526195200",
+        "price": 375,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Laptop"
+    },
+    {
+        "id": 12,
+        "brand": "HP",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/b/o/boult-audio-ba-nk-freepods-black_1_17c2dc71.jpg?rnd=20200526195200",
+        "price": 100,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Mobile"
+    },
+    {
+        "id": 13,
+        "brand": "HP",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/d/i/dive_green_1.jpg?rnd=20200526195200",
+        "price": 500,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Head_Phones"
+    },
+    {
+        "id": 14,
+        "brand": "HP",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/p/e/pebble-8906086572115_1_34a9b9fd.jpg?rnd=20200526195200",
+        "price": 1000,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Speakers"
+    },
+    {
+        "id": 15,
+        "brand": "HP",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/p/p/pportronics-por-1195_1_e9dc8e9f.jpg?rnd=20200526195200",
+        "price": 750,
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+        "category": "Smart_TV"
+    }
+]

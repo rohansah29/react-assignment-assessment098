@@ -6,20 +6,39 @@ Welcome to the React Assignment Repository! This repository contains a collectio
 
 1. **Browse Assignments:** Navigate to the `assignments` directory to explore the various assignments available.
 
-2. **Choose an Assignment:** Each assignment has its own dedicated directory, named in a structured manner (e.g., `assignment-1`, `assignment-2`, etc.).
+2. **Choose an Assignment:** Each assignment has its dedicated directory, named in a structured manner.
 
 3. **Read the Question:** Inside each assignment directory, you will find a `README.md` file that outlines the specific problem statement or question for that assignment.
 
-4. **Solve and Compare:** Try to solve the assignment on your own by following the instructions provided. After completing your solution, compare it with my solution in the corresponding `solution` directory within the assignment folder.
+4. **Solve and Compare:** Try to solve the assignment on your own by following the instructions provided. After completing your solution, compare it with my solution.
 
 5. **Learn and Improve:** Take the time to understand the solutions and code structure. Feel free to experiment, modify, and optimize the code to enhance your React knowledge.
 
 ## Assignments List
 
-- **Assignment 1:** [Link to Assignment 1 README](assignments/assignment-1/README.md)
-- **Assignment 2:** [Link to Assignment 2 README](assignments/assignment-2/README.md)
-- ...
-- **Assignment N:** [Link to Assignment N README](assignments/assignment-N/README.md)
+## Navigate to Specific Sections:
+
+- **sprint-1:** Sprint 1 assignments.
+  - **day-1:** Assignments for Day 1.
+    - **assignments:** Day 1 specific React assignments.
+  - **day-2:** Assignments for Day 2.
+  - **day-3:** Assignments for Day 3.
+  - **day-4:** Assignments for Day 4.
+- **sprint-2:** Sprint 2 assignments.
+- **sprint-3:** Sprint 3 assignments.
+- **sprint-4:** Sprint 4 assignments.
+- **optional:** Optional assignments.
+
+## Explore React App:
+
+- **React_App/my-app:** Contains a React application. Navigate into this directory for specific React application-related content.
+
+## Additional Files:
+
+- **.dummy:** Placeholder file.
+- **react.txt:** Text file related to React.
+- **we:** Placeholder file.
+- **you:** Placeholder file.
 
 ## Contribution
 

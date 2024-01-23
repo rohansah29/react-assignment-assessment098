@@ -4,7 +4,7 @@ Welcome to the React Assignment Repository! This repository contains a collectio
 
 ## How to Use
 
-1. **Browse Assignments:** Navigate to the `assignments` directory to explore the various assignments available.
+1. **Browse Assignments:** Navigate to the `React-assignments` directory to explore the various assignments available.
 
 2. **Choose an Assignment:** Each assignment has its dedicated directory, named in a structured manner.
 

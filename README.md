@@ -1,4 +1,4 @@
-# React Assignment Repository
+# React Assignments Repository
 
 Welcome to the React Assignment Repository! This repository contains a collection of React assignments that I solved during my learning journey. These assignments cover a range of difficulty levels, from basic to high, providing an opportunity for you to enhance your React skills.
 
